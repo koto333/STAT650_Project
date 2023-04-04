@@ -1,8 +1,6 @@
 # STAT650_Project_Pokemon
 This is the repository of final project for STAT 650 (Advanced R in Data Science)
 
-# STAt650_Pokemon
-
 The dataset used was ["The Complete Pokemon Dataset"](https://www.kaggle.com/datasets/rounakbanik/pokemon) from Kaggle user Rounak Banik. The data contains information on pokemon from the game *Pokemon Go*. The data technically isn't complete Pokemon dataset as it is limited to the Pokemon that were already introduced in and before 2017.
 
 The data has columns that include the following:
